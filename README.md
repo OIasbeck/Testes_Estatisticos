@@ -30,4 +30,4 @@ Além da análise de variâncias, também realizamos análises de correlações 
 
 ## Como utilizar
 
-Para utilizar este repositório, basta cloná-lo em sua máquina e executar os arquivos. Certifique-se de ter instalado as bibliotecas previamente. Observações à parte, estão descritas no decorrer do código.
+Para utilizar este repositório, basta cloná-lo em sua máquina carregar seu dataset e executar os arquivos. Certifique-se de ter instalado as bibliotecas previamente. Observações à parte, estão descritas no decorrer do código.
